@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\WalletDrainer\WalletDrainer.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
