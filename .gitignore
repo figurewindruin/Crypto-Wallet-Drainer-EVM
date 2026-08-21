@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.nupkg
+[Dd]ebug/
+[Rr]elease/
+publish/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+drainer.json
+.nc
